@@ -1,0 +1,44 @@
+/*
+-- base css - Atividade Workflow
+*/
+
+body, input, select, textarea {
+    background-color: white; 
+    font-family: "Segoe UI", Candara, "Bitstream Vera Sans", "DejaVu Sans", "Bitstream Vera Sans", "Trebuchet MS", Verdana, "Verdana Ref", sans-serif;
+    color: #333;
+}
+
+a:link {
+    color: #0F599F;
+}
+
+a:visited {
+    color: #666;
+}
+
+a:hover {
+    color: #000;
+    text-decoration: none;
+}
+
+a:focus {
+    outline: 1px dotted #F00;
+}
+
+a:active {
+    color: #F00;
+}
+
+p {
+    font-size: 16px;
+    margin-bottom: 1.5em;
+    line-height: 1.4em;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;
+}
+
+
+
+
+
